@@ -1,91 +1,113 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Vojta Stoklasa's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Vojtěch Stoklasa
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:jobs@vstkl.xyz">jobs@vstkl.xyz</a>
+| <a href="https://github.com/vstkl">github</a>
+| <a href="https://vstkl.xyz">blog</a>
 </div>
 
+## summary
 
-## Currently
+I am a fullstack developer with a diverse skill set spanning automation, embedded systems, and cybersecurity. My journey in electrical engineering began at age 10 and has evolved into a career focused on agile development using Python and JavaScript. With a passion for security and a background in development and DevOps, I am keen to transition further into the cybersecurity domain. I think critically and plan for worst-case scenarios, enjoying the challenge of "breaking" things to understand how they work. I maintain a homelab for hands-on learning with tools like Proxmox, WebGoat, and Metasploitable, and actively participate in challenges on platforms like Hack The Box. I believe in the importance of good DevOps practices and fostering strong team relationships. I am passionate about continuous learning and strive to stay updated with the latest industry trends. I am also a dedicated VIM user, utilizing its efficiency across various *nix-based systems.
 
-Standing on the shoulders of giants
+## experience
 
-### Specialized in
+### freelance_work
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+**Cybersecurity Consultant & Software Developer**  
+*June 2023 - Present*
 
+- Conducted security assessments and penetration testing for various clients
+- Developed secure applications and automated security processes
+- Developed virtualization solutions for automation of their solution
 
-### Research interests
+### Semantic Visions
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+**Software Engineer**  
+*April 2022 - March 2023*
 
+- Rebuilt the data processing pipeline to enhance efficiency and scalability
+- Contributed to backend architecture and performance optimization
+- Utilized front-end skills to fix issues in API testing, involving some React development
+- Supervised a junior teammate, fostering their growth and development
 
-## Education
+### esc aerospace s.r.o
 
-`1654-1660`
-__The King's School, Grantham.__
+**Software Engineer**  
+*March 2021 - February 2022*
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Developed subroutines for testing the integrity of space satellites
+- Contributed to the development of BCI robotic arms for exoskeletons, focusing on data processing and visualization
+- Managed APIs and automated testing processes
+- Led requirement gathering and task delegation within the team
 
-- Sizar
+### FSP a.s
 
-`1667 - death`
-__Trinity College, Cambridge__
+**Fullstack Engineer**  
+*September 2018 - December 2020*
 
-- Fellow
+- Led the integration of an internal framework, adding new features and functionalities
+- Created a proof-of-concept project to demonstrate potential improvements
+- Assisted with the security aspects of backend models and APIs
+- Developed secure life insurance systems designed for long-term production
 
+### DHL IT Services
 
+**Software Analyst/Developer**  
+*January 2018 - September 2018*
 
-## Awards
+- Developed in-house projects with a focus on security
+- Analyzed call center problems and provided secure solutions
+- Worked with JavaScript and C# to implement new features
+- Collaborated with the Data Science team on AI analysis, providing insights and workshops
 
-`2012`
-President, *Royal Society*, London, UK
+### Siemens s.r.o
 
-Associate, *French Academy of Science*, Paris, France
+**RPA Automation Developer**  
+*January 2017 - November 2017*
 
+- Designed and developed automation processes for back-office operations
+- Led the development of global accounts control systems
+- Utilized UML structures, Visual Basic macros, PowerShell scripting, and regex to achieve automation goals
 
+## skills
 
-## Publications
+JavaScript, TypeScript, React, npm, webpack, yarn, babel, Python Flask, PyTest, panda3d, pandas, SQL Oracle, MSSQL, sqlite, PL/SQL, C/C++, FreeRTOS, C#, .NET, Mono, VisualBasic, Entity, NHibernate, vhdl, FPGA, nasm, gdb(gef), radare2, BurpSuite, nmap, nessus, PowerShell, wireshark, UiPath, BluePrism, tmux, amass, nginx, make/cmake, legba, nikto, zaproxy, metsaploit, SMB, docker, vagrant, virtualbox, SOAP, REST, ollama, jenkins, XML, zabbix, qemu/kvm/Hyper-V
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## languages
 
-### Journals
+**fluent**: EN, CS \| **learning**: RU, DE, CN
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+## education
 
-`1669`
-Lectiones opticæ.
+### FIT ČVUT, Prague
 
-etc. etc. etc.
+**Information Technologies**  
+*September 2017 - February 2019*
 
-### Patents
+- Gained essential computer science principles and analytical skills
+- Developed a comprehensive outlook on problem analysis and solution development
+- Cultivated a strong interest in hardware and software integration
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+### SPŠei Kratochvílova, Ostrava
 
+**Electrical Engineering**  
+*September 2013 - June 2017*
 
-## Occupation
+- Studied automation, AD/DA converters, and related mathematics
+- Learned to control microchips, design electrical circuits, and analyze technology
+- Developed a solid foundation in electrical engineering principles
 
-`1600`
-__Royal Mint__, London
+## favourite_tools
 
-- Warden
-- Minted coins
+- neovim, zsh, docker
+- MacOS, debian, kali, endeavourOS(arch-based), ProxmoxVE
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## free_time
 
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+I play many string instruments and create my own music, sometimes using my own synthesizers. I enjoy capturing moments with analog cameras, avoiding modern technology. Reading about medicine or cybersecurity is a significant part of my leisure activities. I also maintain a homelab for hands-on learning and enjoy participating in cybersecurity challenges on platforms like Hack The Box.
