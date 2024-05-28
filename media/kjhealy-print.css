@@ -56,7 +56,7 @@ body {
 	font-size: 10pt;
 	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Courier,monospace,sans-serif;
+	font-family: 'Courier New', Courier,monospace;
 	/*margin-top: 1em;
 	margin-left: 1em;*/
 }
@@ -73,7 +73,7 @@ code {
 	font: normal normal;
 	font-size: 60%;
 	/*line-height: 1em;*/
-	font-family: Courier,monospace,sans-serif;
+	font-family: 'Courier New', Courier,monospace;
 	color: #ccc;
 }
 
@@ -114,7 +114,7 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Courier,monospace,sans-serif;
+	font-family: 'Courier New', Courier,monospace;
 	width: 65%;
 }
 
@@ -167,7 +167,7 @@ a:hover {
 	position: relative;
 	left: 28%;
 	color: #ccc;
-	font-family: Courier,monospace,sans-serif;
+	font-family: 'Courier New', Courier,monospace;
 	font-size: 80%;
 }
 
