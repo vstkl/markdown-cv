@@ -73,7 +73,7 @@ code {
 	font: normal normal;
 	font-size: 60%;
 	/*line-height: 1em;*/
-	font-family: Menlo,monospace,sans-serif;
+	font-family: Courier, monospace,sans-serif;
 	color: #aaa;
 }
 
@@ -114,7 +114,7 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Cousine,Verdana,sans-serif;
+	font-family: Courier, monospace,sans-serif;
 	width: 65%;
 }
 
@@ -165,7 +165,7 @@ a:hover {
 	position: relative;
 	left: 33%;
 	color: #aaa;
-	font-family: Menlo,monospace,sans-serif;
+	font-family: Courier, monospace,sans-serif;
 	font-size: 80%;
 }
 
