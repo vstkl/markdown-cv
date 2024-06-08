@@ -11,9 +11,11 @@ title: Vojta Stoklasa's CV
 | <a href="https://vstkl.xyz">blog</a>
 </div>
 
+Test
 ## summary
 
 I am a fullstack developer with a diverse skill set spanning automation, embedded systems, and cybersecurity. My journey in electrical engineering began at age 10 and has evolved into a career focused on agile development using Python and JavaScript. With a passion for security and a background in development and DevOps, I am keen to transition further into the cybersecurity domain. I think critically and plan for worst-case scenarios, enjoying the challenge of "breaking" things to understand how they work. I maintain a homelab for hands-on learning with tools like Proxmox, WebGoat, and Metasploitable, and actively participate in challenges on platforms like Hack The Box. I believe in the importance of good DevOps practices and fostering strong team relationships. I am passionate about continuous learning and strive to stay updated with the latest industry trends. I am also a dedicated VIM user, utilizing its efficiency across various *nix-based systems.
+
 
 ## experience
 
